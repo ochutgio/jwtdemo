@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwtdemo", "jwtdemo\jwtdemo.csproj", "{721B44BB-0E9A-4DC9-BCC3-10D92444BFE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwtapidemo", "jwtapidemo\jwtapidemo.csproj", "{823B162C-E4D4-4993-83DC-D15A2A8D5F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonWebTokenDemo", "JsonWebTokenDemo\JsonWebTokenDemo.csproj", "{DA8CAFC2-6547-4E44-99C6-ACBAEB7E2648}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{721B44BB-0E9A-4DC9-BCC3-10D92444BFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{721B44BB-0E9A-4DC9-BCC3-10D92444BFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{721B44BB-0E9A-4DC9-BCC3-10D92444BFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823B162C-E4D4-4993-83DC-D15A2A8D5F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823B162C-E4D4-4993-83DC-D15A2A8D5F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823B162C-E4D4-4993-83DC-D15A2A8D5F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823B162C-E4D4-4993-83DC-D15A2A8D5F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8CAFC2-6547-4E44-99C6-ACBAEB7E2648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8CAFC2-6547-4E44-99C6-ACBAEB7E2648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8CAFC2-6547-4E44-99C6-ACBAEB7E2648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8CAFC2-6547-4E44-99C6-ACBAEB7E2648}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
